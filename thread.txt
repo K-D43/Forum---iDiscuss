@@ -45,7 +45,7 @@
     }
     ?> 
 
-
+    //comments section starts
     <!-- For comments insertion -->
 
 
@@ -67,7 +67,7 @@
     }
     ?>
 
-
+//Content Category starts
 <!-- Category Content starts from here -->
     <div class="container my-3">
         
